@@ -9,4 +9,11 @@
 ### files 1 and 2
 The first two files were used during class to help in understanding the content, as they contained examples of the material. Throughout the lesson, all the content in these files was commented on and modified as needed. These files reflect everything that was discussed and understood about the topic.
 
-In addition to the three .ipynb files, there will also be a PDF containing the documentation of the entire process carried out during the execution of the CP_04.ipynb file mentioned above.
+### file 3
+The third file is a documented notebook that we created, where we explored the use of an LLM model that underwent fine-tuning to detect jailbreak prompts
+
+
+
+
+
+
