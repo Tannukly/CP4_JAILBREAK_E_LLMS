@@ -14,6 +14,9 @@
 2. Entendendo LLMs - 2TDCF.ipynb 
 3. CP_04.ipynb
 
+### Note:
+All these .ipynb codes should be run on Google Colab.
+
 ### Arquivos 1 e 2:
 Os dois primeiros arquivos foram utilizados durante a aula para ajudar na compreensão do conteúdo, pois continham exemplos do material. Ao longo da lição, todo o conteúdo desses arquivos foi comentado e modificado conforme necessário. Esses arquivos refletem tudo o que foi discutido e compreendido sobre o tema.
 
@@ -33,6 +36,9 @@ O terceiro arquivo é um notebook documentado que criamos, no qual exploramos o 
 1. Tokens, devices, e memória de conversa - 2TDCF.ipynb 
 2. Entendendo LLMs - 2TDCF.ipynb 
 3. CP_04.ipynb
+
+### Observação: 
+Todos esses códigos .ipynb devem ser rodados no Google Colab.
 
 ### files 1 and 2:
 The first two files were used during class to help in understanding the content, as they contained examples of the material. Throughout the lesson, all the content in these files was commented on and modified as needed. These files reflect everything that was discussed and understood about the topic.
