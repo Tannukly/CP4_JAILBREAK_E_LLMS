@@ -10,8 +10,8 @@
 
 ## Nesse repositório, você irá achar 3 arquivos .ipynb com os seguintes nomes:
 
-1. Tokens, devices, e memória de conversa - 2TDCF.ipynb 
-2. Entendendo LLMs - 2TDCF.ipynb 
+1. Notebook-Tokens.ipynb 
+2. Notebook-LLMs.ipynb 
 3. CP_04.ipynb
 
 ### Observação: 
@@ -33,8 +33,8 @@ O terceiro arquivo é um notebook documentado que criamos, no qual exploramos o 
   
 ## In this repository, you will find three .ipynb files with the following names:
 
-1. Tokens, devices, e memória de conversa - 2TDCF.ipynb 
-2. Entendendo LLMs - 2TDCF.ipynb 
+1. Notebook-Tokens.ipynb 
+2. Notebook-LLMs.ipynb 
 3. CP_04.ipynb
 
 ### Note:
