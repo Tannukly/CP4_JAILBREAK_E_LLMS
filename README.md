@@ -2,11 +2,11 @@
 
 ## Membros
 
-* Rafael Nunes Mendes rm98491
-* Eduardo do nascimento Silva rm99225
-* Guilherme cavalheiro Siqueira rm98305
-* João Eduardo Busar Pena rm98243
-* Nicholas Calegari sanches rm93912
+* Rafael Nunes Mendes / rm98491
+* Eduardo do nascimento Silva / rm99225
+* Guilherme cavalheiro Siqueira / rm98305
+* João Eduardo Busar Pena / rm98243
+* Nicholas Calegari sanches / rm93912
 
 ## Nesse repositório, você irá achar 3 arquivos .ipynb com os seguintes nomes:
 
@@ -22,11 +22,11 @@ O terceiro arquivo é um notebook documentado que criamos, no qual exploramos o 
 
 ## Membros
 
-* Rafael Nunes Mendes rm98491
-* Eduardo do nascimento Silva rm99225
-* Guilherme cavalheiro Siqueira rm98305
-* João Eduardo Busar Pena rm98243
-* Nicholas Calegari sanches rm93912
+* Rafael Nunes Mendes / rm98491
+* Eduardo do nascimento Silva / rm99225
+* Guilherme cavalheiro Siqueira / rm98305
+* João Eduardo Busar Pena / rm98243
+* Nicholas Calegari sanches / rm93912
   
 ## In this repository, you will find three .ipynb files with the following names:
 
