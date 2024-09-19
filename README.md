@@ -1,5 +1,13 @@
 # CP-4 IA e Machine Learning
 
+## Membros
+
+* Rafael Nunes Mendes rm98491
+* Eduardo do nascimento Silva rm99225
+* Guilherme cavalheiro Siqueira rm98305
+* João Eduardo Busar Pena rm98243
+* Nicholas Calegari sanches rm93912
+
 ## Nesse repositório, você irá achar 3 arquivos .ipynb com os seguintes nomes:
 
 1. Tokens, devices, e memória de conversa - 2TDCF.ipynb 
@@ -12,6 +20,14 @@ Os dois primeiros arquivos foram utilizados durante a aula para ajudar na compre
 ### Arquivo 3:
 O terceiro arquivo é um notebook documentado que criamos, no qual exploramos o uso de um modelo LLM que passou por fine-tuning para detectar prompts de jailbreak.
 
+## Membros
+
+* Rafael Nunes Mendes rm98491
+* Eduardo do nascimento Silva rm99225
+* Guilherme cavalheiro Siqueira rm98305
+* João Eduardo Busar Pena rm98243
+* Nicholas Calegari sanches rm93912
+  
 ## In this repository, you will find three .ipynb files with the following names:
 
 1. Tokens, devices, e memória de conversa - 2TDCF.ipynb 
