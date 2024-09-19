@@ -20,7 +20,7 @@ Os dois primeiros arquivos foram utilizados durante a aula para ajudar na compre
 ### Arquivo 3:
 O terceiro arquivo é um notebook documentado que criamos, no qual exploramos o uso de um modelo LLM que passou por fine-tuning para detectar prompts de jailbreak.
 
-## Membros
+## Members
 
 * Rafael Nunes Mendes / rm98491
 * Eduardo do nascimento Silva / rm99225
