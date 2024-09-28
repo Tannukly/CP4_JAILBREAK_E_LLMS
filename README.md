@@ -1,5 +1,5 @@
 # CP-4 IA e Machine Learning
-![logo da empresa](https://i.pinimg.com/736x/75/61/e1/7561e13f6d672cb22279bf225f9a9ec5.jpg)
+
 ## Membros
 
 * Rafael Nunes Mendes / rm98491
